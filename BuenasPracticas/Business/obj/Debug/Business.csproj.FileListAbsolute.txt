@@ -1,0 +1,6 @@
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\Business\bin\Debug\Business.exe.config
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\Business\bin\Debug\Business.exe
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\Business\bin\Debug\Business.pdb
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\Business\obj\Debug\Business.exe
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\Business\obj\Debug\Business.pdb

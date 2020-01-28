@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1F6DECE0-6107-48F2-AF2C-B7B96AD36E79}</ProjectGuid>
+    <ProjectGuid>{EB344E44-48DF-413C-81EA-031EC8E50C9B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BuenasPracticas</RootNamespace>
-    <AssemblyName>BuenasPracticas</AssemblyName>
+    <RootNamespace>Business</RootNamespace>
+    <AssemblyName>Business</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,25 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class\RecuperadorEventos.cs" />
-    <Compile Include="DTO\EventosDTO.cs" />
-    <Compile Include="Interfaces\ILectorArchivo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RecursoMensaje.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>RecursoMensaje.resx</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="RecursoMensaje.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>RecursoMensaje.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
+    <Folder Include="Validadores\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

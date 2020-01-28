@@ -4,3 +4,11 @@ C:\Users\juan.pech\source\repos\BuenasPracticas\BuenasPracticas\bin\Debug\Buenas
 C:\Users\juan.pech\source\repos\BuenasPracticas\BuenasPracticas\obj\Debug\BuenasPracticas.csprojAssemblyReference.cache
 C:\Users\juan.pech\source\repos\BuenasPracticas\BuenasPracticas\obj\Debug\BuenasPracticas.exe
 C:\Users\juan.pech\source\repos\BuenasPracticas\BuenasPracticas\obj\Debug\BuenasPracticas.pdb
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\BuenasPracticas\bin\Debug\BuenasPracticas.exe.config
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\BuenasPracticas\bin\Debug\BuenasPracticas.exe
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\BuenasPracticas\bin\Debug\BuenasPracticas.pdb
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\BuenasPracticas\obj\Debug\BuenasPracticas.csprojAssemblyReference.cache
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\BuenasPracticas\obj\Debug\BuenasPracticas.RecursoMensaje.resources
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\BuenasPracticas\obj\Debug\BuenasPracticas.csproj.GenerateResource.cache
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\BuenasPracticas\obj\Debug\BuenasPracticas.exe
+C:\Users\juan.pech\Documents\GitHub\CursoSolid\BuenasPracticas\BuenasPracticas\obj\Debug\BuenasPracticas.pdb
